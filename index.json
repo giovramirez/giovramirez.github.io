@@ -1,3 +1,5 @@
 {
   "greeting": "Hello 👋! I'm Giovanny Ramirez",
+  "description": "Front-end developer",
+  "technologies": ["Javascript 💛", "Vue.js 💚", "CSS", "HTML"]
 }
