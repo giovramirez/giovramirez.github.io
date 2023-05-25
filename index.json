@@ -1,5 +1,17 @@
 {
   "greeting": "Hello 👋! I'm Giovanny Ramirez",
   "description": "Front-end developer",
-  "technologies": ["Javascript 💛", "Vue.js 💚", "CSS", "HTML"]
+  "technologies": ["Javascript 💛", "Vue.js 💚", "CSS", "HTML"],
+  "experience": [
+    {
+      "job": "Software Engineer",
+      "company": "Freelance"
+      "years": 2
+    },
+    {
+      "job": "Front-end Developer",
+      "company": "Endava",
+      "years": 3.25
+    }
+  ]
 }
